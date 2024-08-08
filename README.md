@@ -234,4 +234,7 @@ http://localhost:8080/api
 
 ---
 
+
+
+
 This `README.md` provides a clear overview of how to interact with the Event Management System API, including details on each endpoint, the HTTP methods used, and the expected request and response formats.
