@@ -184,6 +184,11 @@ http://localhost:8080/api
 
 - **Response:** `200 OK` (if successful)
 
+### Delete Organizer
+
+- **Endpoint:** `/organizers/{id}`
+- **Method:** `DELETE`
+- **Response:** `204 No Content` (if successful)
 ---
 
 ## Venues
